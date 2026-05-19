@@ -21,3 +21,8 @@ Horsehead Nebula FITS image
 ## Output Preview
 
 ![Horsehead Nebula](outputs/horsehead_preview.png)
+
+
+# FITS File Viewer
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yq9rqJAKEGivOyzPwIB3IMQ-TFOzJO-w#scrollTo=KWcKaQlAx2rE)
