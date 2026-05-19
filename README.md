@@ -18,3 +18,6 @@ Horsehead Nebula FITS image
 - Astropy
 - NumPy
 - Matplotlib
+## Output Preview
+
+![Horsehead Nebula](outputs/horsehead_preview.png)
